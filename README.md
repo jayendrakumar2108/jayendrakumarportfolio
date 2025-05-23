@@ -61,7 +61,7 @@ Custom cursor and UI effects
 
 🧑‍💻 Author
 Jayendra Kumar
-📫 bunny2108@gmail.com
+📫 bunnyyadav2108@gmail.com
 🌐 jayendrakumarportfolio.vercel.app
 
 📌 Deployment
