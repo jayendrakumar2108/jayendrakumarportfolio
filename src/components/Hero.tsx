@@ -108,7 +108,7 @@ const Hero: React.FC = () => {
             <div className="relative w-[450px] h-[450px] mx-auto rounded-full overflow-hidden shadow-2xl border-4 border-white dark:border-slate-800 transition-all duration-500 hover:shadow-blue-400/30">
               <img 
                 ref={profileRef}
-                src="https://media-hosting.imagekit.io/b51875e7c9784741/IMG_2670.JPG?Expires=1840858127&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=VUvYmRn2E5Egt22ljybPaIIA18~I06QG64mNeM5kqYNYkcN6A-DJ23HJMhXW5QSMdPq4zu29LxP-EQ7onVE3lTMeTRrhkcJPN0cOS2HliK1pyIBZIPR~319wybkRtsO2jj-T~GgODsgTB~0wTvJuUgiejpkgHOw7cmpUP50Pnyi~sInfGeu90derkGzGo8gp8XByveF3fUqp0pr5gh0zhn11GhzgZ-TsBINpskAVKYLw1EyYV6YK7ndK3KsHSMBC1nLPYlGgTcL78KP4OTVrBtFBhLUpUaZptuN9-bP6KStKNmz41rxZ0jniqRzx4EcEYLLdH7opB62pSnZkfz~24Q__"
+                src="https://res.cloudinary.com/dstbuwkjc/image/upload/v1748746037/profileportfolio_at11tq.jpg"
                 alt="Jayendra Kumar" 
                 className="w-full h-full object-cover transition-transform duration-300"
                 style={{ transition: 'transform 0.2s ease-out' }}
