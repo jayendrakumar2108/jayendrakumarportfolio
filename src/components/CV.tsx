@@ -12,7 +12,7 @@ const CVSection: React.FC = () => {
           </p>
           
           <a 
-            href="https://publuu.com/flip-book/857236/1879230"
+            href="https://pdflink.to/jayendracv/"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition-colors duration-300 shadow-lg hover:shadow-xl"
