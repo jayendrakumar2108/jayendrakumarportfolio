@@ -1,69 +1,68 @@
-# Safety Incident Dashboard
+# 💼 Jayendra Kumar's Portfolio
 
-A modern, responsive web application for tracking and managing safety incidents.
+Welcome to my personal developer portfolio built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS**.
 
-## Tech Stack
+## 🌐 Live Demo
 
-- **Framework**: React 18 with TypeScript
-- **Styling**: Tailwind CSS for utility-first styling
-- **Icons**: Lucide React for consistent, scalable icons
-- **Build Tool**: Vite for fast development and optimized builds
+👉 [https://jayendrakumarportfolio.vercel.app](https://jayendrakumarportfolio.vercel.app)
 
-## Getting Started
+---
 
-1. Install dependencies:
-   ```bash
-   npm install
-   ```
+## 🛠 Tech Stack
 
-2. Start the development server:
-   ```bash
-   npm run dev
-   ```
+- ⚛️ **React 18**
+- 🧠 **TypeScript**
+- 🎨 **Tailwind CSS**
+- ⚡ **Vite**
+- 🧩 **Lucide React** (for icons)
 
-3. Build for production:
-   ```bash
-   npm run build
-   ```
+---
 
-4. Preview production build:
-   ```bash
-   npm run preview
-   ```
+## 📁 Project Structure
 
-## Features
-
-- 📋 View and manage incidents with detailed information
-- 🔍 Filter incidents by severity (Low, Medium, High)
-- ⏱️ Sort by date (newest/oldest first)
-- 📝 Report new incidents with form validation
-- 📱 Fully responsive design
-- 🎨 Visual severity indicators
-- ⚡ Optimized performance with React.memo and useMemo
-
-## Design Decisions
-
-- **Component Structure**: Modular components for better maintainability and reusability
-- **State Management**: React's built-in useState and useMemo for efficient state handling
-- **Type Safety**: TypeScript for enhanced developer experience and code reliability
-- **Accessibility**: Semantic HTML and ARIA attributes for better screen reader support
-- **Visual Feedback**: Subtle animations for user interactions
-- **Error Handling**: Form validation with clear error messages
-- **Performance**: Optimized re-renders with proper state management
-
-## Project Structure
-
-```
 src/
-├── components/         # React components
-├── data/              # Mock data
-├── types/             # TypeScript interfaces
-└── App.tsx            # Root component
-```
+├── components/ # Reusable UI components
+├── data/ # Static or mock data
+├── types/ # TypeScript types and interfaces
+├── App.tsx # Main app layout
+├── main.tsx # Entry point
+└── index.css # Global styles
 
-## Development Notes
+---
 
-- All data is managed in frontend state (no backend required)
-- New incidents persist only for the current session
-- Responsive design works across all device sizes
-- Built with scalability in mind for future features
+## 🚀 Getting Started
+
+### 1. Clone the repo
+
+git clone https://github.com/jayendrakumar2108/jayendrakumarportfolio.git
+cd jayendrakumarportfolio
+2. Install dependencies
+
+npm install
+3. Run development server
+
+npm run dev
+4. Build for production
+
+npm run build
+5. Preview production build
+
+npm run preview
+📱 Features
+Responsive and accessible design
+
+Dynamic sections: About, Projects, Skills, Education, Certificates, Achievements
+
+Smooth scroll and transitions
+
+Modular component structure
+
+Custom cursor and UI effects
+
+🧑‍💻 Author
+Jayendra Kumar
+📫 bunnyyadav2108@gmail.com
+🌐 jayendrakumarportfolio.vercel.app
+
+📌 Deployment
+Deployed using Vercel for fast and seamless CI/CD.
